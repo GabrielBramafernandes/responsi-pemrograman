@@ -1,0 +1,13 @@
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\bin\Debug\netcoreapp3.1\Responsi pemrograman2843.exe
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\bin\Debug\netcoreapp3.1\Responsi pemrograman2843.deps.json
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\bin\Debug\netcoreapp3.1\Responsi pemrograman2843.runtimeconfig.json
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\bin\Debug\netcoreapp3.1\Responsi pemrograman2843.runtimeconfig.dev.json
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\bin\Debug\netcoreapp3.1\Responsi pemrograman2843.dll
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\bin\Debug\netcoreapp3.1\Responsi pemrograman2843.pdb
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\obj\Debug\netcoreapp3.1\Responsi pemrograman2843.csprojAssemblyReference.cache
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\obj\Debug\netcoreapp3.1\Responsi pemrograman2843.csproj.CoreCompileInputs.cache
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\obj\Debug\netcoreapp3.1\Responsi pemrograman2843.AssemblyInfoInputs.cache
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\obj\Debug\netcoreapp3.1\Responsi pemrograman2843.AssemblyInfo.cs
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\obj\Debug\netcoreapp3.1\Responsi pemrograman2843.dll
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\obj\Debug\netcoreapp3.1\Responsi pemrograman2843.pdb
+D:\responsi pemrograman\Responsi pemrograman2843\Responsi pemrograman2843\obj\Debug\netcoreapp3.1\Responsi pemrograman2843.genruntimeconfig.cache
